@@ -1,0 +1,19 @@
+Únicamente puedes activar aquí en la aplicación web tu tarjeta cuando:
+
+cambio-plastico-t
+Estás haciendo un cambio de plástico
+cambio-categoria-t
+Cambio de tarjeta por una de otra categoría
+cambio-tecnologia-t
+Cambio de tecnología en la tarjeta
+reposicion-tarjeta-t
+Reposición de tarjeta por pérdida o robo
+Actívala aquí
+arrow-down 
+ Seleccione tipo de documento
+Ingresa número de documento
+
+
+Escribe los últimos 4 dígitos de tu tarjeta Informacion
+
+Comenzar activación
