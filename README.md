@@ -14,8 +14,7 @@ Este repositorio contiene un sistema de **Retrieval-Augmented Generation (RAG)**
 ## 🛠 Instalación
 
 **1️⃣ Clonar el repositorio**
-git clone https://github.com/tu-usuario/rag-llm-project.git
-cd rag-llm-project
+git clone https://github.com/tu-usuario/rag-llm-project.git](https://github.com/JCarloscm9312/prueba_tuya_CD_IA.git)
 
 
 **2️⃣ Crear un entorno virtual (opcional)**
