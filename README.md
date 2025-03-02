@@ -18,8 +18,11 @@ git clone https://github.com/tu-usuario/rag-llm-project.git](https://github.com/
 
 
 **2️⃣ Crear un entorno virtual (opcional)**
+
 python -m venv env
+
 source env/bin/activate  # En macOS/Linux
+
 env\Scripts\activate  # En Windows
 
 **3️⃣ Instalar dependencias**
@@ -37,7 +40,6 @@ python src/main.py
 Python 3.8+
 OpenAI API (text-embedding-ada-002, gpt-4)
 ChromaDB (Base de datos vectorial)
-FAISS (Alternativa para almacenamiento de embeddings)
 Jupyter Notebook (Análisis y pruebas)
 
 👨‍💻 Autor
